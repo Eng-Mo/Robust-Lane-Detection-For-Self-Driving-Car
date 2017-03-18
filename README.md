@@ -1,5 +1,4 @@
-# [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/sdc-banner-medium-1170_660.png)](http://www.udacity.com/drive)
-# CarND-Term1-Starter-Kit-Test
-
-Files to test the [term 1 starter kit](https://github.com/udacity/CarND-Term1-Starter-Kit) install. 
-Run all cells in the jupyter notebook. The notebook should execute all cells with no errors.
+To run the code you need to run all cell in notebook DLane-P1.ipynb. 
+the default video clip test is the challenge , you need to change the clip file name to check the other videos
+the output file (out_file) is written using moviepy and cv2.write()("Cv2.write commented") 
+the folders imagesHSL, imgaesBGR, imagesR include a tested images to be included in the final report
